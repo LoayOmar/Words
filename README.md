@@ -1,6 +1,7 @@
 # words
 
-A new Flutter project.
+Simple Application retrieves information about English words, including definitions, synonyms, rhymes, pronunciation, syllables, and frequency of usage. It also can tell you about relationships between words, for instance, that “math” has categories like “algebra” and “geometry”, or that a “finger” is part of a “hand”.
+
 
 ## Getting Started
 
